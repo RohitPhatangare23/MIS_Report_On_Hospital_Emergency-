@@ -3,7 +3,7 @@
 
 ## 📊 Dashboard Preview
 
-![MIS Dashboard]([charts/dashboard.png](https://github.com/RohitPhatangare23/MIS_Report_On_Hospital_Emergency-/blob/master/Hospital%20Dashboard%20Final%20.jpg))
+![MIS Dashboard](https://github.com/RohitPhatangare23/MIS_Report_On_Hospital_Emergency-/blob/master/Hospital%20Dashboard%20Final%20.jpg)
 
 > This dashboard displays trends and KPIs based on hospital emergency data, helping the management team make data-driven decisions.
 
